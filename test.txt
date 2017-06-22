@@ -1,3 +1,5 @@
-My first projext use Git.
+My first project use Git that is a distributed version control system.
 123456789
-
+Git is a free system.
+123
+456
